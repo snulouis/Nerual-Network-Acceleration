@@ -145,7 +145,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week9: HW accelerator (ASIC) and CPU/GPU acceleration (March 29, 2020)
 **Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 	
-	Presentor: 전지 (jyeah05@gmail.com)
+	Presentor: 전지예 (jyeah05@gmail.com)
 	PPT:   
 	Video:   
 
