@@ -54,7 +54,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks**  
 
 	Presentor: 김태완 (rlaxodhksk@snu.ac.kr)  
-	PPT:   
+	PPT: https://github.com/snulouis/Nerual-Network-Acceleration/blob/master/Optimal%20DNN%20Primitive%20Selection%20with%20Partitioned%20Boolean%20Quadratic%20Programming.pdf   
 	Video:   
 
 **Performance analysis of CNN frameworks for GPUs**  
