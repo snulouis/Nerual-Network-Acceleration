@@ -54,7 +54,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks**  
 
 	Presentor: 김태완 (rlaxodhksk@snu.ac.kr)  
-	PPT: https://github.com/snulouis/Nerual-Network-Acceleration/blob/master/Optimal%20DNN%20Primitive%20Selection%20with%20Partitioned%20Boolean%20Quadratic%20Programming.pdf   
+	PPT: https://github.com/snulouis/Nerual-Network-Acceleration/blob/master/Optimizing%20FPGA-based%20Accelerator%20Design%20for%20Deep%20Convolutional%20Neural%20Networks%20Chen%20Zhang%20et%20al%20-%20Louis%20tw%20Kim%20Presentation.pdf  
 	Video:   
 
 **Performance analysis of CNN frameworks for GPUs**  
@@ -93,7 +93,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week5: HW accelerator (FPGA) and CPU/GPU acceleration (March 01, 2020)
 **Neural Network Inference on Mobile SoCs**   
 	
-	Presentor: 전지혜 (jyeah05@gmail.com)  
+	Presentor: 전지예 (jyeah05@gmail.com)  
 	PPT:   
 	Video:   
 
@@ -145,7 +145,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week9: HW accelerator (ASIC) and CPU/GPU acceleration (March 29, 2020)
 **Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 	
-	Presentor: 전지혜 (jyeah05@gmail.com)
+	Presentor: 전지 (jyeah05@gmail.com)
 	PPT:   
 	Video:   
 
